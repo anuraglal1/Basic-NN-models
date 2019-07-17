@@ -1,2 +1,8 @@
-Perceptron
-XOR Gate using Neural Network
+* Perceptron
+* XOR Gate using Neural Network
+* Shallow Network
+* LeNet
+            
+
+
+
