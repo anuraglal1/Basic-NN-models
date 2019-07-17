@@ -1,2 +1,2 @@
-# Perceptron
-# XOR Gate using Neural Network
+Perceptron
+XOR Gate using Neural Network
